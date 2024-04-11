@@ -1,0 +1,29 @@
+ {
+    "quizData1":[
+        {"question": "Actions are judged by intentions.", "answer": true },
+        { "question": "Seek knowledge from the cradle to the grave.", "answer": true },
+        { "question": "The pen is mightier than the sword.", "answer": false },
+        { "question": "Smiling to your brother is charity.", "answer": true },
+        { "question": "Whoever does not show mercy will not be shown mercy.", "answer": true },
+        { "question": "Modesty is a branch of faith.", "answer": true },
+        { "question": "Greed is the key to all evil.", "answer": false },
+        { "question": "The best among you are those who are best to their families.", "answer": true },
+        { "question": "Allah helps the servant as long as he helps his brother.", "answer": true }
+    ],
+        "quizData2":[
+        { "question": "Whoever believes in Allah and the Last Day should speak good or remain silent.", "answer": true },
+        { "question": "Remembrance of Allah is the greatest virtue.", "answer": true },
+        { "question": "The strong believer is better and more beloved to Allah than the weak believer.", "answer": true },
+        { "question": "Allah does not look at your forms or wealth, but He looks at your hearts and deeds.", "answer": true },
+        { "question": "Seeking knowledge is obligatory upon every Muslim.", "answer": true },
+        { "question": "Verily, patience is at the first stroke of a calamity.", "answer": true },
+        { "question": "Actions are judged by their intentions and each person will be rewarded according to their intention.", "answer": true },
+        { "question": "The most beloved deeds to Allah are the ones that are continuous, even if they are small.", "answer": true },
+        { "question": "The believer does not slander, curse, or speak in an obscene or foul manner.", "answer": true },
+        { "question": "Paradise lies at the feet of mothers.", "answer": true },
+        { "question": "Whoever believes in Allah and the Last Day, let them speak good or remain silent.", "answer": true }
+    ]
+ }
+ 
+ 
+  
