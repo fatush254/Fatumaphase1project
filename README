@@ -1,27 +1,33 @@
-HADITH QUIZ
+## HADITH QUIZ
 
 ## Author
+
 Fatuma Galgalo
 
 ## Description
+
                      Hadith quiz(Islamic Teachings)
 
 
                          Problem Statement
+
 Develop a web based application that allows users to test their knowledge of authentic Hadiths quiz .The application will present users with series of truth or false question .Users should be able to access the questions and progress through with their scores updated well. Upon completing the quiz the application should provide the users with their scores .
 
                             Solution
+
 The Hadith will be organized into structured format,including whether it is true or false.
 It will be designed using HTML,CSS,Javascript to create the quiz layout.
 It will implement a ‘Next’ to allow users to progress through the quiz and the next question.
 The program will also have category that will allow users to pick on what category they want to do the quiz.
 
                          MVP features
+
 It will display Hadith questions one at a time with true or false options.
 It will keep track of users score as they answer the questions correctly
 It will allow users to retake
 
                     Technical expectation
+
 Frontend(HTML,CSS,Javascript)
 Score tracking as they progress to the next question
 Handle user events such as;buttons,clicks to trigger actions such as checking answers.
@@ -29,11 +35,13 @@ Implement Javascript to generate quiz interface with Hadith questions and option
 The program will also have category that will allow users to pick on what category they want to do the quiz.
 
 ## Live Site
+
 https://github.com/fatush254/Fatumaphase1project.git
 
 ## Technical Expectation
+
 FrontEnd:HTML,CSS,API's Backend:Javascript
 
 ## License
-MIT LICENSE Copyright
 
+MIT LICENSE Copyright

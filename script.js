@@ -87,3 +87,12 @@ function endQuiz() {
     quizContainer.style.display = 'none';
     alert(`Quiz Ended. Your score is ${score} out of ${questions.length}`);
 }
+function toggleTheme() {
+    const body = document.body;
+    body.classList.toggle('light-theme');
+    body.classList.toggle('dark-theme');
+}
+
+
+const themeToggleBtn = document.getElementById('theme-toggle');
+themeToggleBtn.addEventListener('click', toggleTheme);
