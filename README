@@ -1,4 +1,4 @@
-<!--## HADITH QUIZ
+# HADITH QUIZ
 
 ## Author
 
@@ -6,41 +6,38 @@ Fatuma Galgalo
 
 ## Description 
 
-## Hadith quiz(Islamic Teachings)
+Hadith Quiz (Islamic Teachings)
 
+### Problem Statement
 
-## Problem Statement
+Develop a web-based application that allows users to test their knowledge of authentic Hadiths through a quiz. The application will present users with a series of true or false questions. Users should be able to access the questions, progress through them, and have their scores updated accordingly. Upon completing the quiz, the application should provide users with their scores.
 
-Develop a web based application that allows users to test their knowledge of authentic Hadiths quiz .The application will present users with series of truth or false question .Users should be able to access the questions and progress through with their scores updated well. Upon completing the quiz the application should provide the users with their scores .
+### Solution
 
-## Solution
+The Hadith will be organized into a structured format, including whether it is true or false. The application will be designed using HTML, CSS, and JavaScript to create the quiz layout. It will implement a ‘Next’ button to allow users to progress through the quiz and move to the next question. The program will also have categories that will allow users to choose which category they want to quiz on.
 
-The Hadith will be organized into structured format,including whether it is true or false.
-It will be designed using HTML,CSS,Javascript to create the quiz layout.
-It will implement a ‘Next’ to allow users to progress through the quiz and the next question.
-The program will also have category that will allow users to pick on what category they want to do the quiz.
+### MVP Features
 
-## MVP features
+- Display Hadith questions one at a time with true or false options.
+- Keep track of users' scores as they answer the questions correctly.
+- Allow users to retake the quiz.
 
-It will display Hadith questions one at a time with true or false options.
-It will keep track of users score as they answer the questions correctly
-It will allow users to retake
+### Technical Expectation
 
-## Technical expectation
-
-Frontend(HTML,CSS,Javascript)
-Score tracking as they progress to the next question
-Handle user events such as;buttons,clicks to trigger actions such as checking answers.
-Implement Javascript to generate quiz interface with Hadith questions and options
-The program will also have category that will allow users to pick on what category they want to do the quiz.
+- Frontend: HTML, CSS, JavaScript.
+- Score tracking as users progress to the next question.
+- Handle user events such as button clicks to trigger actions such as checking answers.
+- Implement JavaScript to generate the quiz interface with Hadith questions and options.
+- Include categories to allow users to choose which category they want to quiz on.
 
 ## Live Site
 
-https://github.com/fatush254/Fatumaphase1project.git
+[Hadith Quiz](https://github.com/fatush254/Fatumaphase1project.git)
 
 ## Technical Expectation
 
-FrontEnd:HTML,CSS,API's Backend:Javascript
+- FrontEnd: HTML, CSS, JavaScript.
+- Backend: JavaScript
 
 ## License
 
