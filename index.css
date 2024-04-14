@@ -8,8 +8,7 @@ h1 {font: 1em sans-serif;font-family:Arial, Helvetica, sans-serif;
     margin-left: 200px;
     color:black
     
-    
-}
+    }
 
 .quiz-container {
     margin-top: 60px;
@@ -23,7 +22,6 @@ h1 {font: 1em sans-serif;font-family:Arial, Helvetica, sans-serif;
     font-size: larger;
     text-align: center;
     
-
 }
 
 #question {
@@ -50,8 +48,9 @@ button {
     margin-top: 60px;
     font-weight: bold;
     font-size: larger;
-    color:black;
+    color:#fff;
 }
+
 #mode-toggle{
     transition: background-color 0.3s ease;
     
@@ -62,17 +61,16 @@ button {
     color: #fff;
     
 }
+
 .light-theme {
     background-color: #f3f3f3;
     color: #333;
   }
   
-  
   .dark-theme {
     background-color: #333;
     color: #fff;
   }
-  
   
   #theme-toggle {
     background-color: transparent;
@@ -83,3 +81,29 @@ button {
     border-radius: 5px;
     transition: background-color 0.3s ease;
   }
+  
+ .left-image, .right-image {
+    width: 300px; /* Adjust size as needed */
+    height: 300px; /* Adjust size as needed */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.left-image {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    background-image: url('https://i.pinimg.com/564x/ee/38/0a/ee380a49c63e3118a2ab3c6e70356209.jpg'); /* Replace 'path/to/left-image.jpg' with the actual URL of your left image */
+}
+
+.right-image {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    background-image: url('https://i.pinimg.com/564x/ee/38/0a/ee380a49c63e3118a2ab3c6e70356209.jpg'); /* Replace 'path/to/right-image.jpg' with the actual URL of your right image */
+}
+
+

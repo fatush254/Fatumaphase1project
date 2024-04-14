@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hadith Quiz</title>
     <link rel="stylesheet" href="index.css">
 </head>
+
 <body>
     <div class="quiz-container">
         <h1>Hadith Quiz</h1>
+        <div class="left-image"></div>
+        <div class="right-image"></div>
         <button id="theme-toggle">Dark/Light Mode</button>
         <button id="startButton">Start Quiz</button>
         <div id="levels" style="display: none;">
-            <select id="levelSelect">
-                <option value="" selected disabled>Select level</option>
-                <option value="quizData1">Hadith1</option>
-                <option value="quizData2">Hadith2</option>
+         <select id="levelSelect">
+          <option value="" selected disabled>Select level</option>
+          <option value="quizData1">Hadith1</option>
+          <option value="quizData2">Hadith2</option>
             </select>
         </div>
         <div id="image"></div>
@@ -25,7 +29,8 @@
         <button id="nextBtn">Next</button>
         <div id="score">Score: <span id="scoreValue">0</span></div>
     </div>
-    
+
     <script src="script.js"></script>
 </body>
+
 </html>
