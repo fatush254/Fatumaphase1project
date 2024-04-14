@@ -32,9 +32,12 @@ The Hadith will be organized into a structured format, including whether it is t
 
 ## Live Site
 
-(https://github.com/fatush254/Fatumaphase1project.git)
+[Hadith Quiz](https://github.com/fatush254/Fatumaphase1project.git)
 
+## Technical Expectation
 
+- FrontEnd: HTML, CSS, JavaScript.
+- Backend: JavaScript
 
 ## License
 
